@@ -1,0 +1,186 @@
+h1 {
+  color: #ba3ed3;
+}
+header {
+  display: flex;
+  flex-direction: column;
+  background-color: #d4c9d8;
+  text-transform: uppercase;
+}
+
+.sectionHeader1 {
+  display: flex;
+  gap: 200px;
+}
+
+.contentHeader1 {
+  margin-right: 120px;
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+}
+
+.contentHeader1 h1,
+.contendHeader h3 {
+  text-align: center;
+  width: 100%;
+}
+
+.icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}
+
+.inicio {
+  border-radius: 5px;
+  text-transform: uppercase;
+}
+
+.busqueda{
+  border-radius: 5px;
+  text-transform: uppercase;
+  width: 400px;
+}
+.menu {
+  list-style: none;
+  padding: 0%;
+  margin: auto;
+}
+
+.menu a {
+  text-decoration: none;
+  color: black;
+  padding: 20px;
+  display: block;
+  display: inline-block;
+  text-align: center;
+}
+h1 {
+  text-align: right;
+}
+h3 {
+  text-align: right;
+}
+
+.contenido {
+  flex-direction: column;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+.imagen-1 {
+  width: 200px;
+  height: 200px;
+  margin-left: 10px;
+  margin-right: 25px;
+  margin-top: 25px;
+
+}
+
+.imagen-2 {
+  width: 200px;
+  height: 200px;
+  margin-left: 10px;
+  margin-right: 25px;
+  margin-top: 25px;
+  
+}
+
+.imagen-3 {
+  width: 200px;
+  height: 200px;
+  margin-left: 10px;
+  margin-right: 25px;
+  margin-top: 25px;
+  
+}
+
+.imagen-4 {
+  width: 200px;
+  height: 200px;
+  margin-left: 10px;
+  margin-right: 25px;
+  margin-top: 25px;
+
+}
+
+.imagen-5 {
+  width: 200px;
+  height: 200px;
+  margin-left: 10px;
+  margin-right: 25px;
+  margin-top: 25px;
+
+}
+
+.imagen-6 {
+  width: 200px;
+  height: 200px;
+  margin-left: 10px;
+  margin-right: 25px;
+  margin-top: 25px;
+  
+}
+
+.imagen-7 {
+  width: 200px;
+  height: 200px;
+  margin-left: 10px;
+  margin-right: 25px;
+  margin-top: 25px;
+  
+}
+
+.imagen-8 {
+  width: 200px;
+  height: 200px;
+  margin-left: 10px;
+  margin-right: 25px;
+  margin-top: 25px;
+}
+  
+  
+
+.imagen-9 {
+  width: 200px;
+  height: 200px;
+  margin-left: 10px;
+  margin-right: 25px;
+  margin-top: 25px;
+
+}
+
+.imagen-10 {
+  width: 200px;
+  height: 200px;
+  margin-left: 10px;
+  margin-right: 25px;
+  margin-top: 25px;
+ 
+}
+.imagen-l {
+  background: center;
+  width: 25px;
+  height: 25px;
+}
+.rs {
+  text-align: center;
+}
+
+.imagen-ins {
+  width: 34px;
+  height: 34px;
+  
+}
+
+
+.footer {
+  text-decoration: none;
+  color: black;
+  padding: 20px;
+  display: flex;
+  background-color: #d4c9d8;
+  text-align: center;
+}
